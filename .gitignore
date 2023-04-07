@@ -4,3 +4,5 @@ src/main/java/org/example/discord/Hide.java
 build/classes/java/main/org/example/discord/Hide.class
 
 src/main/java/org/example/discord/Key.java
+
+out/production/classes/org/example/discord/Key.class
