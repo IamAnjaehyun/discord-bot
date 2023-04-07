@@ -2,3 +2,5 @@
 # TOKEN을 저장한 Hide git저장소에 올리지 않기
 src/main/java/org/example/discord/Hide.java
 build/classes/java/main/org/example/discord/Hide.class
+
+src/main/java/org/example/discord/Key.java
